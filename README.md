@@ -32,8 +32,7 @@ This project creates a data-driven exploration tool that allows curators to dyna
 ---
 
 ## 🖥️ Output Snapshot
-
-*(Embed or link your dashboard screenshot here)*  
+ 
 ![MoMA Art Explorer Dashboard](images/dashboard-preview.png)
 
 ---

@@ -34,7 +34,7 @@ This project creates a data-driven exploration tool that allows curators to dyna
 ## 🖥️ Output Snapshot
 
 *(Embed or link your dashboard screenshot here)*  
-`![MoMA Art Explorer Dashboard](dashboard-preview.png)`
+![MoMA Art Explorer Dashboard](images/dashboard-preview.png)
 
 ---
 
@@ -55,7 +55,7 @@ This project creates a data-driven exploration tool that allows curators to dyna
 4. Enter a **Minimum Year** to explore artworks.  
 5. The dashboard auto-updates to show the earliest work with its image and details.
 
-🔗 **[View Google Sheet Demo](your-google-sheet-link-here)**
+🔗 **[View Google Sheet Demo](https://docs.google.com/spreadsheets/d/1HQSQ3rOQIKDrAG_fdsrBu7JpmwAev6qavkIC376J048/edit?usp=sharing)**
 
 ---
 
